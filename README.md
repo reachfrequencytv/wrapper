@@ -1,8 +1,8 @@
 # wrapper
 
-## motivation
-
 easily create a VAST ad wrapper for a given url.
+
+## motivation
 
 run a simple script which outputs a VAST ad wrapper to stdout. copy the output
 to a file or pipe to an upload for testing VAST ad wrappers.
