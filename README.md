@@ -22,9 +22,9 @@ Optional settings, generally used by the initial ad server hosting the wrapper:
 
 - `--error_uri`: a URL for error reporting (optional, defaults to nothing)
 - `--ad_system_name`: a name for the ad system (optional, defaults to 'VAST Ad System')
-- `--ad_system_id`: an id for the ad system (optional, defaults to `Date.now`)
+- `--ad_system_version`: a version for the ad system (optional, defaults to `Date.now`)
 - `--ad_id`: an id for the ad, (optional, defaults to a unique `uuid`)
-- `--sequece`: the sequence of the ad, (optional, defaults to `1`)
+- `--sequence`: the sequence of the ad, (optional, defaults to `1`)
 
 ## example
 
