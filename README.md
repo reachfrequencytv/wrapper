@@ -45,6 +45,7 @@ npm run wrapper \
     <Wrapper>
       <AdSystem version="1.1">Reach Frequency TV</AdSystem>
       <VASTAdTagURI><![CDATA[http://example.com]]></VASTAdTagURI>
+      <Error><![CDATA[http://error.com]]></Error>
       <Creatives/>
     </Wrapper>
   </Ad>
